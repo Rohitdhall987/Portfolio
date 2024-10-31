@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 
-body{
+.bg-theme-white{
   background-color: #ffffff;
   /* background-color: #f1f0ef; */
   background-image:url("https://www.transparenttextures.com/patterns/otis-redding.png");
@@ -12,6 +12,10 @@ body{
 .bottom-rounded{
   border-bottom-left-radius: 3.5rem;
   border-bottom-right-radius: 3.5rem;
+}
+
+.icon{
+  @apply text-7xl md:text-9xl text-gray-700;
 }
 
 .bg-theme{
