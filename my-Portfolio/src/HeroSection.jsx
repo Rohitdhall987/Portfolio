@@ -39,7 +39,7 @@ function HeroSection() {
                         <p className="text-2xl md:text-5xl font-bold text-gray-700">
                             Currently exploring React and Flutter to bring impactful ideas to life.
                         </p>
-                        <div className="bg-black text-white rounded-full py-2 px-4 w-24 text-center my-4 font-bold cursor-pointer">
+                        <div className="bg-black text-white rounded-full py-2 px-4 w-24 text-center my-4 font-bold cursor-pointer" onClick={() => window.location.href = "mailto:rohitdhall987@gmail.com?subject=Hiring%20Inquiry"}>
                             Hire Me
                         </div>
                         <div className="flex items-center gap-2">

@@ -12,7 +12,7 @@ function ContactBar() {
       <div className="hidden md:flex items-center">
         <span className="text-sm text-gray-700" id="email">rohitdhall987@gmail.com</span>
         <button className="button-81 mx-2 text-xs md:text-sm px-4 py-1" role="button" onClick={copyText}>Copy</button>
-        <button className="button-81 text-xs md:text-sm px-4 py-1" role="button">CV</button>
+        {/* <button className="button-81 text-xs md:text-sm px-4 py-1" role="button">CV</button> */}
       </div>
 
       {/* Social Links - visible on all screens */}
@@ -20,7 +20,7 @@ function ContactBar() {
         <a href="https://www.instagram.com/rohitdhall987/" target="_blank" rel="noopener noreferrer">
           <FaInstagram className="text-2xl " />
         </a>
-        <a href="#contact" className="">
+        <a href="tel:+918930487787" className="">
           <FaPhone className="text-2xl " />
         </a>
         <a href="https://www.linkedin.com/in/rohitdhall987/" target="_blank" rel="noopener noreferrer">

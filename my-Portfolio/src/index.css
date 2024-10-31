@@ -23,8 +23,14 @@
   @apply text-7xl md:text-9xl text-gray-700;
 }
 
+
+/* .bg-cream{
+  background-color: #fff7ec;
+} */
+
+
 .bg-theme{
-  background-color: #f1f0ef;
+  background-color: #f3f0eb;
   background-image:url("https://www.transparenttextures.com/patterns/otis-redding.png");
 }
 .button-81 {

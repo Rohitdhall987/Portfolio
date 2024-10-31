@@ -30,7 +30,7 @@ function Showcase() {
 
     return (
         <section className="projects-section py-10 px-4 md:px-8">
-            <h2 className="text-2xl md:text-4xl font-bold mb-6">Projects</h2>
+            <h2 className="text-2xl md:text-4xl font-bold mb-6">🗂️ Projects </h2>
             <p className="text-gray-700 text-lg md:text-2xl mb-8">
                 A selection of my work, highlighting practical solutions and creative problem-solving across web and mobile development.
             </p>

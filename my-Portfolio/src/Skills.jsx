@@ -19,7 +19,7 @@ function Skills() {
 
   return (
     <section className="skills-section  py-10 px-8">
-      <h2 className="text-2xl md:text-4xl font-bold mb-6 ">Skills & Expertise</h2>
+      <h2 className="text-2xl md:text-4xl font-bold mb-6 ">🚀 Skills & Expertise</h2>
       {/* <p className="text-gray-700 text-lg md:text-2xl mb-8">I’m skilled in some areas and familiar with others, ready to work across different tools and technologies</p> */}
       <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-6">
         {skills.map((skill, index) => (
