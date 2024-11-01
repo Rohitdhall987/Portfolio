@@ -20,9 +20,9 @@ function ContactBar() {
         <a href="https://www.instagram.com/rohitdhall987/" target="_blank" rel="noopener noreferrer">
           <FaInstagram className="text-2xl " />
         </a>
-        <a href="tel:+918930487787" className="">
+        {/* <a href="tel:+9112345678" className="">
           <FaPhone className="text-2xl " />
-        </a>
+        </a> */}
         <a href="https://www.linkedin.com/in/rohitdhall987/" target="_blank" rel="noopener noreferrer">
           <FaLinkedin className="text-2xl " />
         </a>
